@@ -30,7 +30,7 @@ const OwnerJobTypePage = () => {
     },
     {
       id: '6',
-      name: '번역',
+      name: '전단지',
     },
     {
       id: '7',
